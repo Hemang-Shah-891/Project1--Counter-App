@@ -13,7 +13,7 @@ const Counter = () => {
   return (
     <>
     <div className='Content'>
-    <h1 className='header'>Counter App</h1>
+    <h1 className='header'>Counter APP</h1>
     <p className='count'>{count}</p>
      <div className='btn'>
       <button className='increment' onClick={Increment}>Increment</button>
